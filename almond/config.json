@@ -17,6 +17,7 @@
   "schema": {},
   "image": "homeassistant/{arch}-addon-almond"
   
+  },
   "ports": {
     "3000/tcp": null
   },
