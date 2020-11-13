@@ -1,4 +1,4 @@
-# Home Assistant Add-ons: The official repository
+# 1Home Assistant Add-ons: The official repository
 
 Add-ons for Home Assistant, allow you to extend the functionality
 around your Home Assistant setup. These add-ons can consist of an application
